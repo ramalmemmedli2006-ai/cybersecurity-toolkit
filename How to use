@@ -1,0 +1,40 @@
+Installation
+git clone https://github.com/yourusername/cybersecurity-toolkit.git
+cd cybersecurity-toolkit
+pip install -r requirements.txt
+Usage
+python main.py
+Features
+
+Menu-based CLI
+
+Multiple security tools in one project
+
+Beginner-friendly code structure
+
+Educational use for cybersecurity learning
+
+Easy to extend with new modules
+
+Future Improvements
+
+Add subdomain scanner
+
+Add WHOIS lookup
+
+Add file integrity checker
+
+Add basic packet sniffer
+
+Add report export to JSON
+
+Important Note
+
+This project is for educational and authorized testing purposes only.
+Do not use it against systems or networks without permission.
+License
+
+# requirements.txt
+
+```text
+psutil
